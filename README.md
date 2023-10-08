@@ -104,7 +104,7 @@ def decrypt_file(file_path):
 
 ## Simple Ransomware in C++
 
-C+
+C++
 ```
 #include <iostream>
 #include <fstream>
@@ -158,7 +158,7 @@ int main() {
 
 ## Simple Ransomware in Golang
 
-C#
+Go
 ```
 package main
 
